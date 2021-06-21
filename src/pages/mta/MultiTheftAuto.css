@@ -1,0 +1,10 @@
+.fundo{
+    min-height: 400px;
+    background-image: 
+    linear-gradient(106deg,rgb(0, 123, 255, 0.5) 28%,rgb(0, 123, 255, 0.5) 28%),
+    url('/assets/img/bg.jpg');
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

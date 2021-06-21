@@ -1,0 +1,43 @@
+.navbar{
+    width: 100%;
+}
+.background-transparent-navbar{
+    background-color: #fff!important;
+}
+.menuHome a{
+    font-family:poppins,sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: transparent;
+    transition: all ease .3s;
+    color:#212529;
+    float: left;
+    padding-right: .5rem;
+    padding-left: .5rem;
+}
+.menuHome .active{
+    color: #007bff;
+}
+.background-transparent-color-navbar{
+    color:#212529;
+}
+.displayFlex-Navbar{
+    display:flex;
+}
+.floatRight-Col-navbar{
+    float:right;
+}
+.areadocliente-navbar-button{
+    margin-top: -0.5rem;
+}
+.topMenu{
+    font-size:.9rem;
+    padding: .2rem;
+    color:white;
+    width:100%;
+    height: auto;
+    background-color: rgb(0, 123, 255);
+}
+.svgWhatsApp{
+    margin-top:.4rem;
+}

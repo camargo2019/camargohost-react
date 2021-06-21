@@ -1,0 +1,18 @@
+.fundoVPS{
+    min-height: 400px;
+    background-image: 
+    linear-gradient(106deg,rgb(0, 123, 255, 0.5) 28%,rgb(0, 123, 255, 0.5) 28%),
+    url('/assets/img/bg_vps.jpg');
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imgLogoServer{
+    width: 70%;
+    /* margin-top: 30px; */
+    height: auto;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-left: 80px;
+}
